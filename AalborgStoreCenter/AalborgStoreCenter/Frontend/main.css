@@ -1,0 +1,59 @@
+﻿body {
+    background-color: #E8F1F2;
+}
+
+
+.top-bar {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    background-color: #1B98E0;
+}
+
+.user img {
+    float: right; 
+    padding-right: 20px;
+    margin-top: 15px;
+}
+
+.box {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    }
+
+.add-icon {
+    padding-left: 50px;
+    opacity: 1;
+}
+
+.basket {
+    margin-bottom: -70px;
+    opacity: 0.1;
+}
+
+.navigation {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    background-color: #1B98E0;
+    position: absolute;
+    bottom: 0;
+}
+
+ul li{
+    display: inline-block;
+    margin-top: 15px;
+}
+
+li {
+    padding-left: 40px;
+    padding-right: 40px;
+    text-decoration: none;
+    list-style-type: none;
+}
+#productImage{
+    width: 100%;
+}

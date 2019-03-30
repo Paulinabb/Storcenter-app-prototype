@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="skeleton.css">
+    <script type="text/javascript" src="../Scripts/jquery-3.3.1.js"></script>
+    <script type="text/javascript" src="../Scripts/User.js"></script>
+
+</head>
+<body class="hide-M">
+
+    <div class="box">
+        <img src="Images/logo.png" alt="Logo Aalborg Storcenter" class="logo" />
+
+        <div class="login">
+            <form onsubmit="return validateFormName()" name="formName" data-ember-action="454">
+                <fieldset class="styled-input">
+                    <input name="fname" id="uname" required="required" type="text">
+                    <label for="identification">Username</label>
+                </fieldset>
+            </form>
+        </div>
+
+
+        <div class="login">
+            <form onsubmit="return validateFormPassword()" name="formPassword" data-ember-action="454">
+                <fieldset class="styled-input">
+                    <input name="Pname" id="psw" required="required" type="password">
+                    <label for="identification">Password</label>
+                </fieldset>
+            </form>
+
+            <button onclick="validateFormName()" id="loginBtn" type="submit" class="loginButton">Continue</button>
+        </div>
+
+
+    </div>
+
+</body>
+</html>

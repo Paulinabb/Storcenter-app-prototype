@@ -1,0 +1,149 @@
+﻿
+body {
+    background-image: url('Images/background.jpg');
+    color: white;
+}
+
+.box {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.logo {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+ .login {
+        float: left;
+        display: block;
+        margin-top: 2em;
+    }
+
+.login form input {
+                width: 100%;
+                background-color:transparent;
+                color: white;
+                }
+
+.login form fieldset.styled-input {
+                position: relative;
+                
+            }
+
+.login form fieldset.styled-input label {
+                    position: absolute;
+                    top: 0;
+                    opacity: 0.5;
+                    left: 0;
+                    font-size: 1em;
+                    font-weight: 500;
+                    -webkit-transition: all 0.15s ease-in-out;
+                    -moz-transition: all 0.15s ease-in-out;
+                    transition: all 0.15s ease-in-out;
+                    pointer-events: none;
+                }
+
+.login form fieldset.styled-input input[type="text"]:focus ~ label,
+.login form fieldset.styled-input input[type="text"]:valid ~ label {
+                    top: -1.6rem;
+                    color: white;
+                    position: absolute;
+                    font-size: 1em;
+                    -webkit-transition: all 0.15s ease-in-out;
+                    -moz-transition: all 0.15s ease-in-out;
+                    transition: all 0.15s ease-in-out;
+                }
+
+
+    .login form fieldset.styled-input input[type="password"]:focus ~ label,
+    .login form fieldset.styled-input input[type="password" ]:valid ~ label {
+        top: -1.6rem;
+        position: absolute;
+        font-size: 1em;
+        -webkit-transition: all 0.15s ease-in-out;
+        -moz-transition: all 0.15s ease-in-out;
+        transition: all 0.15s ease-in-out;
+    }
+
+
+form fieldset {
+    border: none;
+}
+
+    form fieldset label {
+        color: #E8F1F2;
+        line-height: 1.8em;
+        font-size: 1em;
+        width: 100%;
+        display: block;
+        padding-left: 0.6em;
+        font-weight: 500;
+    }
+
+    form fieldset input[type="text"] {
+        margin-right: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        -ms-appearance: none;
+        -o-appearance: none;
+        appearance: none;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        border: none;
+        border-bottom: 1px solid white;
+        padding: 0.3em 0.5em 0.2em 0.5em;
+        text-decoration: none;
+        outline: none;
+        line-height: 1em;
+        margin: 0;
+        width: 100%;
+        font-size: 1.2em;
+        font-weight: 400;
+        color: #E8F1F2;
+    }
+
+
+    form fieldset input[type="password"] {
+        margin-right: 0;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        -ms-appearance: none;
+        -o-appearance: none;
+        appearance: none;
+        -webkit-transition: all 0.2s ease-in-out;
+        -moz-transition: all 0.2s ease-in-out;
+        transition: all 0.2s ease-in-out;
+        border: none;
+        border-bottom: 1px solid white;
+        padding: 0.3em 0.5em 0.2em 0.5em;
+        text-decoration: none;
+        outline: none;
+        line-height: 1em;
+        margin: 0;
+        width: 100%;
+        font-size: 1.2em;
+        font-weight: 400;
+        color: #E8F1F2;
+    }
+
+    form fieldset input[type="text"]:focus {
+        border-bottom: #1B98E0 2px solid;
+    }
+
+    form fieldset input[type="password"]:focus {
+        border-bottom: #1B98E0 2px solid;
+    }
+
+
+.loginButton {
+    width: 100%;
+    background-color: #1B98E0;
+    color: white;
+    border: 0;
+}

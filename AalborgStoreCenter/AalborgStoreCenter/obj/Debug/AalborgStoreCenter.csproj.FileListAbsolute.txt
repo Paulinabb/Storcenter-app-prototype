@@ -1,0 +1,612 @@
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Sev\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Paulina\Desktop\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Dorotka\Source\Repos\Paulinabb\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\7\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Paulina\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\WebGrease.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\8\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\WebGrease.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.pdb
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.xml
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Paulina\Desktop\stor 10 Dorota\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\WebGrease.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.pdb
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.xml
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Bogdan Bologa Marius\Desktop\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\ApplicationInsights.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\AalborgStoreCenter.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csc.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\csi.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.AppContext.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\vbc.rsp
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Cors.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\WebGrease.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Antlr3.Runtime.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\EntityFramework.SqlServer.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.PerfCounterCollector.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.Web.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.pdb
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\Newtonsoft.Json.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Net.Http.Formatting.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.Cors.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Http.WebHost.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\bin\System.Web.Optimization.xml
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csprojResolveAssemblyReference.cache
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.Migrations.Initial.resources
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.csproj.GenerateResource.Cache
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.dll
+C:\Users\Dorotka\Desktop\WebDev\1 Project\code\9\storcenter\AalborgStoreCenter\AalborgStoreCenter\obj\Debug\AalborgStoreCenter.pdb
